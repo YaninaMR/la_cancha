@@ -1,0 +1,70 @@
+.circle {
+     width: 130px;
+     height: 130px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     border: 3.5px solid #FFF;
+     position: absolute;
+     top: 80px;
+     left: 40%;
+}
+
+.ball{
+     width: 15px;
+     height: 15px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: #FFF;
+     border: 2px solid white;
+     position: absolute;
+ 
+}
+#b1{
+   
+   top: 83px;
+   right: 87%;
+}
+#b2{
+   
+   top: 30px;
+   right: 48%;
+}
+#b3{
+   
+   top: 185px;
+   right: 13%;
+}
+.rectangle {
+     width: 95%; 
+     height: 90%; 
+     border: 4px solid #FFF;
+     position: absolute;
+     margin: 10px 15px;
+}
+
+.arch-rigth {
+    width: 75px;
+    height: 130px;
+    border: 3.5px solid #FFF;
+    position: absolute;
+    top: 80px;
+    right: 88.2%;
+}
+
+.arch-left{
+    width: 75px;
+    height: 130px;
+    border: 3.5px solid #FFF;
+    position: absolute;
+    top: 80px;
+    left: 88.2%;
+}
+.stadium{
+   width: 700px;
+  height: 350px;
+  text-align: center;
+  background-image: url(../assets/img/stadium.png);
+  position: relative;
+}
